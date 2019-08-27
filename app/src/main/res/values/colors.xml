@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9500</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="homeColor">#44a832</color>
+    <color name="homeColorDark">#378729</color>
+    <color name="searchColor">#D14343</color>
+    <color name="searchColorDark">#993232</color>
+    <color name="cateColor">#c400de</color>
+    <color name="cateColorDark">#9000a3</color>
+    <color name="cartColor">#3993ed</color>
+    <color name="cartColorDark">#2d75bd</color>
+    <color name="menuColor">#db259f</color>
+    <color name="menuColorDark">#b01e80</color>
+    <color name="registerColor">#42f5e3</color>
+    <color name="registerColorDark">#30b8aa</color>
+</resources>
